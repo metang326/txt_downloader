@@ -35,12 +35,6 @@ if __name__ == "__main__":
      print(texts)
 ```
 
-
-
-当时我只看了第一部分的静态数据爬取，一开始照着requests+BeautifulSoup的方法就爬到了一些内容，当时还美滋滋呢。
-
-
-
 爬到的内容：
 
 ```html
